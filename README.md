@@ -194,9 +194,3 @@ Opens at: **http://localhost:8501**
 | Round Amount Suspicious | Exact round amounts (e.g. ₹10,000.00) which are atypical |
 
 ---
-
-## Author
-
-**Vinay Shelke**  
-B.Tech Electronics & Communication Engineering  
-[GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/)
